@@ -2,5 +2,5 @@
     "appSecret": "3e7d6d15a55233f3a09daeb1120b6ac7",
     "pageAccessToken": "EAADFX4Xh85kBADHYpcGPof6DE2d5miPQwxwYr3HCLIrvTRZACxeg2IOfyIfkm59LYIBYwZANTBp2sML2DSTvVdAbctc1egtBJnhVvWMZAKBtojMwVsFywQijaZCK8w1OZCjPcu63l2WmHxGIkMsM2odihYE5ccAMZD",
     "validationToken": "125634135246",
-    "serverURL": ""
+    "serverURL": "https://graph.facebook.com/v2.6/me/messages"
 }
